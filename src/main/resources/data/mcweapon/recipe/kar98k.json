@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " SA",
+    "III",
+    " W "
+  ],
+  "key": {
+    "S": "minecraft:spyglass",
+    "A": "minecraft:redstone",
+    "I": "minecraft:iron_ingot",
+    "W": "minecraft:oak_planks"
+  },
+  "result": {
+    "id": "mcweapon:kar98k",
+    "count": 1
+  }
+}

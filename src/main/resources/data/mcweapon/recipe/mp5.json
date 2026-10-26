@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "III",
+    " C "
+  ],
+  "key": {
+    "R": "minecraft:redstone",
+    "I": "minecraft:iron_ingot",
+    "C": "minecraft:coal"
+  },
+  "result": {
+    "id": "mcweapon:mp5",
+    "count": 1
+  }
+}

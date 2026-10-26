@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "mcweapon:item/tactical_ammo_box"
+  }
+}

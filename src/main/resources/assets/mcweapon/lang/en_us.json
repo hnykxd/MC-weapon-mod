@@ -1,0 +1,17 @@
+{
+  "itemGroup.mcweapon.tab": "Tactical Weapons Arsenal",
+  "item.mcweapon.tactical_ammo_box": "Tactical High-Power Ammo Box",
+  "item.mcweapon.awp": "AWP Sniper Rifle",
+  "item.mcweapon.barrett_m82": "Barrett M82A1 .50 BMG",
+  "item.mcweapon.kar98k": "Karabiner 98k Sniper",
+  "item.mcweapon.kriss_vector": "KRISS Vector .45 ACP",
+  "item.mcweapon.mp5": "HK MP5A5 Tactical SMG",
+  "item.mcweapon.p90": "FN P90 PDW",
+  "item.mcweapon.uzi": "Micro UZI SMG",
+  "item.mcweapon.desert_eagle": "Desert Eagle .50 AE",
+  "item.mcweapon.glock_18": "Glock-18C Auto Pistol",
+  "item.mcweapon.usp_s": "USP-S Tactical Silenced",
+  "item.mcweapon.ak47": "AK-47 Assault Rifle",
+  "item.mcweapon.m4a1": "M4A1-S Tactical Carbine",
+  "item.mcweapon.spas_12": "Franchi SPAS-12 Shotgun"
+}

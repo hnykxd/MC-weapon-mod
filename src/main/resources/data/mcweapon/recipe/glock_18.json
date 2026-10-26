@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "IC ",
+    " I "
+  ],
+  "key": {
+    "R": "minecraft:redstone",
+    "I": "minecraft:iron_ingot",
+    "C": "minecraft:coal"
+  },
+  "result": {
+    "id": "mcweapon:glock_18",
+    "count": 1
+  }
+}

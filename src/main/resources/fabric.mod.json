@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "mcweapon",
+  "version": "1.0.0",
+  "name": "Tactical Weapons Arsenal (现代战术枪械)",
+  "description": "包含狙击枪(AWP/巴雷特/Kar98k)、冲锋枪(Vector/MP5/P90/UZI)、手枪(沙漠之鹰/Glock18/USP-S)、步枪与霰弹枪。配备激光瞄准红点与光学开镜放大，仅对生物实体产生伤害，不破坏任何世界方块。",
+  "authors": [
+    "Antigravity"
+  ],
+  "license": "MIT",
+  "icon": "assets/mcweapon/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.mcweapon.McWeaponMod"
+    ]
+  },
+  "mixins": [
+    "mcweapon.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": ">=26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

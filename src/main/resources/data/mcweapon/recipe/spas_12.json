@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "IIB",
+    " C "
+  ],
+  "key": {
+    "R": "minecraft:redstone",
+    "I": "minecraft:iron_ingot",
+    "B": "minecraft:iron_block",
+    "C": "minecraft:copper_ingot"
+  },
+  "result": {
+    "id": "mcweapon:spas_12",
+    "count": 1
+  }
+}

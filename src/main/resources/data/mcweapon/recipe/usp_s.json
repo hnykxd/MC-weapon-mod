@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "IIW",
+    " I "
+  ],
+  "key": {
+    "R": "minecraft:redstone",
+    "I": "minecraft:iron_ingot",
+    "W": "minecraft:black_wool"
+  },
+  "result": {
+    "id": "mcweapon:usp_s",
+    "count": 1
+  }
+}

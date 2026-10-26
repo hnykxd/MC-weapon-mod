@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.mcweapon.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "PlayerScopeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ASA",
+    "III",
+    " R "
+  ],
+  "key": {
+    "A": "minecraft:amethyst_shard",
+    "S": "minecraft:spyglass",
+    "I": "minecraft:iron_block",
+    "R": "minecraft:redstone"
+  },
+  "result": {
+    "id": "mcweapon:awp",
+    "count": 1
+  }
+}

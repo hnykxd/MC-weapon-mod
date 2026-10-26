@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ASA",
+    "NBI",
+    " R "
+  ],
+  "key": {
+    "A": "minecraft:amethyst_shard",
+    "S": "minecraft:spyglass",
+    "N": "minecraft:netherite_scrap",
+    "B": "minecraft:iron_block",
+    "I": "minecraft:obsidian",
+    "R": "minecraft:redstone_block"
+  },
+  "result": {
+    "id": "mcweapon:barrett_m82",
+    "count": 1
+  }
+}

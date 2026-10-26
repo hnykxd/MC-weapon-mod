@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "III",
+    " R "
+  ],
+  "key": {
+    "A": "minecraft:amethyst_shard",
+    "I": "minecraft:iron_ingot",
+    "R": "minecraft:redstone"
+  },
+  "result": {
+    "id": "mcweapon:m4a1",
+    "count": 1
+  }
+}

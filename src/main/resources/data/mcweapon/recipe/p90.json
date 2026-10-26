@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "IRI",
+    " C "
+  ],
+  "key": {
+    "G": "minecraft:glass",
+    "I": "minecraft:iron_ingot",
+    "R": "minecraft:redstone",
+    "C": "minecraft:copper_ingot"
+  },
+  "result": {
+    "id": "mcweapon:p90",
+    "count": 1
+  }
+}

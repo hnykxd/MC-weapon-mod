@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "III",
+    "WCW"
+  ],
+  "key": {
+    "R": "minecraft:redstone",
+    "I": "minecraft:iron_ingot",
+    "W": "minecraft:oak_planks",
+    "C": "minecraft:copper_ingot"
+  },
+  "result": {
+    "id": "mcweapon:ak47",
+    "count": 1
+  }
+}

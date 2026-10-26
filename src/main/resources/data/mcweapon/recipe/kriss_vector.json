@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "IGI",
+    " C "
+  ],
+  "key": {
+    "R": "minecraft:redstone",
+    "I": "minecraft:iron_ingot",
+    "G": "minecraft:gold_ingot",
+    "C": "minecraft:copper_ingot"
+  },
+  "result": {
+    "id": "mcweapon:kriss_vector",
+    "count": 1
+  }
+}

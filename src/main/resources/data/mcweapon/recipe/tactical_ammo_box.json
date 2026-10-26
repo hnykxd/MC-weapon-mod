@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "GGG",
+    "III"
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "G": "minecraft:gunpowder"
+  },
+  "result": {
+    "id": "mcweapon:tactical_ammo_box",
+    "count": 1
+  }
+}

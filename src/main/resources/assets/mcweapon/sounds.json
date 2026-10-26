@@ -1,0 +1,74 @@
+{
+  "gun.sniper_heavy": {
+    "sounds": [
+      {
+        "name": "mcweapon:gun/sniper_heavy",
+        "stream": false
+      }
+    ]
+  },
+  "gun.sniper_awp": {
+    "sounds": [
+      {
+        "name": "mcweapon:gun/sniper_awp",
+        "stream": false
+      }
+    ]
+  },
+  "gun.smg_fast": {
+    "sounds": [
+      {
+        "name": "mcweapon:gun/smg_fast",
+        "stream": false
+      }
+    ]
+  },
+  "gun.smg_shot": {
+    "sounds": [
+      {
+        "name": "mcweapon:gun/smg_shot",
+        "stream": false
+      }
+    ]
+  },
+  "gun.pistol_heavy": {
+    "sounds": [
+      {
+        "name": "mcweapon:gun/pistol_heavy",
+        "stream": false
+      }
+    ]
+  },
+  "gun.pistol_shot": {
+    "sounds": [
+      {
+        "name": "mcweapon:gun/pistol_shot",
+        "stream": false
+      }
+    ]
+  },
+  "gun.silenced_shot": {
+    "sounds": [
+      {
+        "name": "mcweapon:gun/silenced_shot",
+        "stream": false
+      }
+    ]
+  },
+  "gun.rifle_heavy": {
+    "sounds": [
+      {
+        "name": "mcweapon:gun/rifle_heavy",
+        "stream": false
+      }
+    ]
+  },
+  "gun.shotgun_blast": {
+    "sounds": [
+      {
+        "name": "mcweapon:gun/shotgun_blast",
+        "stream": false
+      }
+    ]
+  }
+}

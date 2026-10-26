@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "GGG",
+    " I "
+  ],
+  "key": {
+    "R": "minecraft:redstone",
+    "G": "minecraft:gold_ingot",
+    "I": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "mcweapon:desert_eagle",
+    "count": 1
+  }
+}
